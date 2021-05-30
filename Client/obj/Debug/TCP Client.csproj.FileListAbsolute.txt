@@ -1,0 +1,29 @@
+C:\Users\Klęp Piotr\source\repos\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Klęp Piotr\source\repos\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Klęp Piotr\source\repos\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Klęp Piotr\source\repos\TCP Client\obj\Debug\TCP Client.csprojAssemblyReference.cache
+C:\Users\Klęp Piotr\source\repos\TCP Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\Klęp Piotr\source\repos\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\Klęp Piotr\source\repos\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\Klęp Piotr\source\repos\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Klęp Piotr\source\repos\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\igor\source\repos\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\igor\source\repos\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\igor\source\repos\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\igor\source\repos\TCP Client\obj\Debug\TCP Client.csprojAssemblyReference.cache
+C:\Users\igor\source\repos\TCP Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\igor\source\repos\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\igor\source\repos\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\igor\source\repos\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\igor\source\repos\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\mateo\Desktop\New folder\Client\bin\Debug\TCP Client.exe.config
+C:\Users\mateo\Desktop\New folder\Client\bin\Debug\TCP Client.exe
+C:\Users\mateo\Desktop\New folder\Client\bin\Debug\TCP Client.pdb
+C:\Users\mateo\Desktop\New folder\Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\New folder\Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\mateo\Desktop\New folder\Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\mateo\Desktop\New folder\Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\mateo\Desktop\New folder\Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\New folder\Client\obj\Debug\TCP Client.exe
+C:\Users\mateo\Desktop\New folder\Client\obj\Debug\TCP Client.pdb

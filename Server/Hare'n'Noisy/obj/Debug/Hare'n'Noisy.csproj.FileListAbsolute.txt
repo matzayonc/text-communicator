@@ -1,0 +1,9 @@
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\bin\Debug\Hare'n'Noisy.exe.config
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\bin\Debug\Hare'n'Noisy.exe
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\bin\Debug\Hare'n'Noisy.pdb
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\obj\Debug\Hare'n'Noisy.csprojAssemblyReference.cache
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\obj\Debug\Hare_n_Noisy.Form1.resources
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\obj\Debug\Hare_n_Noisy.Properties.Resources.resources
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\obj\Debug\Hare'n'Noisy.csproj.GenerateResource.cache
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\obj\Debug\Hare'n'Noisy.exe
+C:\Users\Mateo\source\repos\Hare'n'Noisy\Hare'n'Noisy\obj\Debug\Hare'n'Noisy.pdb
